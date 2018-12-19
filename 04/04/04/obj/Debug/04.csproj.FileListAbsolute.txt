@@ -1,0 +1,14 @@
+C:\Users\SunRay\Desktop\04\04\bin\Debug\04.exe.config
+C:\Users\SunRay\Desktop\04\04\bin\Debug\04.exe
+C:\Users\SunRay\Desktop\04\04\bin\Debug\04.pdb
+C:\Users\SunRay\Desktop\04\04\obj\Debug\04.csprojAssemblyReference.cache
+C:\Users\SunRay\Desktop\04\04\obj\Debug\04.csproj.CoreCompileInputs.cache
+C:\Users\SunRay\Desktop\04\04\obj\Debug\04.exe
+C:\Users\SunRay\Desktop\04\04\obj\Debug\04.pdb
+C:\Users\SunRay\Desktop\Сложность алгоритмов\04\04\04\bin\Debug\04.exe.config
+C:\Users\SunRay\Desktop\Сложность алгоритмов\04\04\04\bin\Debug\04.exe
+C:\Users\SunRay\Desktop\Сложность алгоритмов\04\04\04\bin\Debug\04.pdb
+C:\Users\SunRay\Desktop\Сложность алгоритмов\04\04\04\obj\Debug\04.csprojAssemblyReference.cache
+C:\Users\SunRay\Desktop\Сложность алгоритмов\04\04\04\obj\Debug\04.csproj.CoreCompileInputs.cache
+C:\Users\SunRay\Desktop\Сложность алгоритмов\04\04\04\obj\Debug\04.exe
+C:\Users\SunRay\Desktop\Сложность алгоритмов\04\04\04\obj\Debug\04.pdb

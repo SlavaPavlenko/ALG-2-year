@@ -1,0 +1,7 @@
+C:\Users\SunRay\Desktop\Сложность алгоритмов\03\03\bin\Debug\03.exe.config
+C:\Users\SunRay\Desktop\Сложность алгоритмов\03\03\bin\Debug\03.exe
+C:\Users\SunRay\Desktop\Сложность алгоритмов\03\03\bin\Debug\03.pdb
+C:\Users\SunRay\Desktop\Сложность алгоритмов\03\03\obj\Debug\03.csprojAssemblyReference.cache
+C:\Users\SunRay\Desktop\Сложность алгоритмов\03\03\obj\Debug\03.csproj.CoreCompileInputs.cache
+C:\Users\SunRay\Desktop\Сложность алгоритмов\03\03\obj\Debug\03.exe
+C:\Users\SunRay\Desktop\Сложность алгоритмов\03\03\obj\Debug\03.pdb
